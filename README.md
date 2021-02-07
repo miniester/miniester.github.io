@@ -5,5 +5,4 @@ It contains some files (e.g. .htacess, xml sitemap), that arent necessary/dont w
 but are helpful if ever deployed on a dynamic server. <br/>
 
 May be removed later: <br/>
-_config.yml <br/> /nece
 .html in all hrefs of html files <br/>
